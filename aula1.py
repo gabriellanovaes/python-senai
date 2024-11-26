@@ -1,0 +1,5 @@
+print('Olá, mundo')
+print('to com fome')
+print('quero dormir')
+print('miauuu')
+print('não seii')
